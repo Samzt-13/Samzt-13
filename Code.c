@@ -1,3 +1,4 @@
+/* This is the first ever coding project i did, even though its small & very basic Im keeping it in my gitHub as a momento */
 #include<stdio.h>
 #include<string.h>
 void main ()
