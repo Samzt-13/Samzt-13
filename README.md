@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Samzt-13 from Nepal
-- 👀 I’m interested in programming and coding
-- 🌱 I currently started learning C as my first language
-- 💞️ I’m looking to learn and explore codes
-- 📫 ___
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Im a student and got no fixed tutor but do self learning from Youtube, 
+- 👋 Hi, I’m Samrat from Nepal
+- 👀 I’m a tech enthusiast
+- 🌱 I am learning some intermediate concepts in C
+- 💞️ I’m very willing to learn documentation & acquire new knowledge & skill
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Im a high schooler studying under NEB Nepal, and am doing self learning
 
 <!---
 Samzt-13/Samzt-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
